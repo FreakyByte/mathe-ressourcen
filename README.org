@@ -1,0 +1,17 @@
+#+title: Reitis handkuratierte Liste zum Erlernen von Mathematik
+#+AUTHOR: Michael Reitmeir
+#+EMAIL:  michi.reitmeir@gmail.com
+
+* Reitis handkuratierte Liste zum Erlernen von Mathematik
+** Inhaltsverzeichnis :toc:
+- [[#reitis-handkuratierte-liste-zum-erlernen-von-mathematik][Reitis handkuratierte Liste zum Erlernen von Mathematik]]
+  - [[#über-diese-liste][Über diese Liste]]
+  - [[#für-allgemeines-publikum-populärwissenschaft][Für allgemeines Publikum (Populärwissenschaft)]]
+  - [[#für-mathe-olympionikinnen][Für Mathe-Olympionik:innen]]
+  - [[#für-studierende][Für Studierende]]
+
+** Über diese Liste
+
+** Für allgemeines Publikum (Populärwissenschaft)
+** Für Mathe-Olympionik:innen
+** Für Studierende
