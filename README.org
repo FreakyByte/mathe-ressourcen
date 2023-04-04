@@ -1,45 +1,51 @@
-#+TITLE: Reitis handkuratierte Liste zum Erlernen von Mathematik
+#+TITLE: Reitis handkuratierte Liste an Resourcen zum Erlernen von Mathematik
 #+DESCRIPTION: Liste an mathematischen Resourcen
 #+AUTHOR: Michael Reitmeir
 #+EMAIL:  michi.reitmeir@gmail.com
 #+SETUPFILE: export/setup/theme-darksun-local.setup
 #+EXPORT_FILE_NAME: index.html
 #+OPTIONS: broken-links:mark
-#+OPTIONS: toc:2
+#+OPTIONS: \n:t
+#+OPTIONS: num:nil
 
-* Über diese Liste
-:PROPERTIES:
-:ID: sec:about
-:END:
-  [[#a][Für Studierende]]
+* About
+Zuletzt aktualisiert: {{{time(%d.%m.%Y %H:%M)}}}.
 
-* Für allgemeines Publikum (Populärwissenschaft)
-:PROPERTIES:
-:CUSTOM_ID: a
-:END:
-*** Allgemeine Empfehlungen
-* Für Mathe-Olympionik:innen
-:PROPERTIES:
-:CUSTOM_ID: sec:olympiade
-:END:
-*** Allgemeine Empfehlungen
-**** Aufgabensammlungen
-*** Algebra
-*** Geometrie
-*** Kombinatorik
-*** Zahlentheorie
-* Für Studierende
-:PROPERTIES:
-:CUSTOM_ID: sec:uni
-:END:
-*** Allgemeine Empfehlungen
-*** Lineare Algebra
-*** Analysis
-*** Algebra
-*** Stochastik
-*** Numerik
-*** Geometrie und Topologie
-*** Zahlentheorie
-*** Mengenlehre
-*** Theoretische Informatik
-*** Kombinatorik und diskrete Mathematik
+* Populärwissenschaftlich
+** Allgemeine Empfehlungen
+* Olympiade
+** Allgemeine Empfehlungen
+*** Aufgabensammlungen
+** Algebra
+** Geometrie
+** Kombinatorik
+** Zahlentheorie
+* Uni-Mathe
+** Allgemeine Empfehlungen
+**** _*An Infinitely Large Napkin*_, Evan Chen, [[https://web.evanchen.cc/napkin.html][Link]]
+Ein riesiges Dokument, in dem nur wenige Themen der universitären Mathematik nicht vorkommen. Kurz angebunden, immer durch Beispiele motiviert. Besonders geeignet für (ehemalige) Mathe-Olympionik:innen, die sich auch solche Themen aneignen wollen.
+
+**** _*Videos von Richard Borcherds*_, [[https://www.youtube.com/@richarde.borcherds7998][Link]]
+Richard Borcherds ist ein Fields-Medaillist, berühmt durch seine arbeiten an der "monstrous moonshine conjecture". Seit der Pandemie stellt er Vorlesungsvideos auf YouTube. Diese sind zwar weder detailliert vorbereitet noch hochqualitativ aufgenommen. Das besondere und meiner Meinung nach empfehlenswerteste an seinen Videos ist aber, mit welcher Direktheit und Ehrlichkeit er über die Themen und auch seine eigenen Erfahrungen mit ihnen spricht.
+**** _*3Blue1Brown*_, Grant Sanderson, [[https://www.youtube.com/@3blue1brown][Videos]]
+Auch in der Kategorie Uni-Mathe muss 3B1B natürlich erwähnt werden. Die Videos fokussieren sich mehr auf Anschaulichkeit als auf inhaltliche Breite. Dafür lernt man, auch wenn man sich in einem Thema eigentlich schon auskennt, immer neue Interpretationen und Veranschaulichungen kennen.
+
+** Lineare Algebra
+- _*Vorlesung von Tim Netzer*_, Uni Innsbruck, [[https://www.uibk.ac.at/mathematik/algebra/media/teaching/lineare-algebra.pdf][Skriptum]] und [[https://www.youtube.com/channel/UCeOqc4erLBNzmOtKWfLDe4w][Videos]]
+** Analysis
+** Algebra
+- _*Vorlesung von Tim Netzer*_, Uni Innsbruck, [[https://www.uibk.ac.at/mathematik/algebra/media/teaching/algebra.pdf][Skriptum]]
+  Beinhaltet grundlegende Gruppentheorie, Ringtheorie, Körper- und Galoistheorie, Moduln, etwas nichtkommutative Algebra (Quaternionen) und noch ein paar Extras und Anwendungen
+**** asd
+** Stochastik
+** Numerik
+** Geometrie und Topologie
+** Zahlentheorie
+** Mengenlehre
+** Theoretische Informatik
+** Kombinatorik und diskrete Mathematik
+
+# Automatically export to html when saving:
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda ()(org-html-export-to-html)) nil t)
+# End:
