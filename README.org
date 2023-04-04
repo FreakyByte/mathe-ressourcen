@@ -1,17 +1,45 @@
-#+title: Reitis handkuratierte Liste zum Erlernen von Mathematik
+#+TITLE: Reitis handkuratierte Liste zum Erlernen von Mathematik
+#+DESCRIPTION: Liste an mathematischen Resourcen
 #+AUTHOR: Michael Reitmeir
 #+EMAIL:  michi.reitmeir@gmail.com
+#+SETUPFILE: export/setup/theme-darksun-local.setup
+#+EXPORT_FILE_NAME: index.html
+#+OPTIONS: broken-links:mark
+#+OPTIONS: toc:2
 
-* Reitis handkuratierte Liste zum Erlernen von Mathematik
-** Inhaltsverzeichnis :toc:
-- [[#reitis-handkuratierte-liste-zum-erlernen-von-mathematik][Reitis handkuratierte Liste zum Erlernen von Mathematik]]
-  - [[#über-diese-liste][Über diese Liste]]
-  - [[#für-allgemeines-publikum-populärwissenschaft][Für allgemeines Publikum (Populärwissenschaft)]]
-  - [[#für-mathe-olympionikinnen][Für Mathe-Olympionik:innen]]
-  - [[#für-studierende][Für Studierende]]
+* Über diese Liste
+:PROPERTIES:
+:ID: sec:about
+:END:
+  [[#a][Für Studierende]]
 
-** Über diese Liste
-
-** Für allgemeines Publikum (Populärwissenschaft)
-** Für Mathe-Olympionik:innen
-** Für Studierende
+* Für allgemeines Publikum (Populärwissenschaft)
+:PROPERTIES:
+:CUSTOM_ID: a
+:END:
+*** Allgemeine Empfehlungen
+* Für Mathe-Olympionik:innen
+:PROPERTIES:
+:CUSTOM_ID: sec:olympiade
+:END:
+*** Allgemeine Empfehlungen
+**** Aufgabensammlungen
+*** Algebra
+*** Geometrie
+*** Kombinatorik
+*** Zahlentheorie
+* Für Studierende
+:PROPERTIES:
+:CUSTOM_ID: sec:uni
+:END:
+*** Allgemeine Empfehlungen
+*** Lineare Algebra
+*** Analysis
+*** Algebra
+*** Stochastik
+*** Numerik
+*** Geometrie und Topologie
+*** Zahlentheorie
+*** Mengenlehre
+*** Theoretische Informatik
+*** Kombinatorik und diskrete Mathematik
