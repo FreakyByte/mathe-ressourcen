@@ -15,11 +15,55 @@ Zuletzt aktualisiert: {{{time(%d.%m.%Y %H:%M)}}}.
 ** Allgemeine Empfehlungen
 * Olympiade
 ** Allgemeine Empfehlungen
+*** Evan Chen, [[https://web.evanchen.cc/][website]]
+Ja, ich empfehle hier eine Person. Evan Chen ist eine absolute Olympiade-Legende und stellt online unzählige Lernmaterialien verschiedenster Art zur Verfügung. Hier ist ein Auszug seiner allgemeineren Ressourcen, spezifischeres findet sich bei den jeweiligen Teilgebieten.
+**** _*YouTube-Kanal*_, [[https://www.youtube.com/@vEnhance][Link]]
+Aufzeichnungen seiner [[https://twitch.tv/vEnhance][Twitch]]-Livestreams, wo er meist live Aufgaben löst. Meist recht hohes Niveau, nicht unbedingt für Anfänger:innen geeignet.
+**** _*The OTIS Excerpts*_, [[https://web.evanchen.cc/excerpts.html][Skriptum]]
+Skriptum bestehend aus 192 Aufgaben und Lösungen aus dem [[https://web.evanchen.cc/otis.html][OTIS]]-Kurs, beinhaltet quasi alles außer Geometrie (die findet sich in [[egmo][EGMO]])
+**** _*From the Author’s Side: Thoughts on Problem Writing*_, [[https://web.evanchen.cc/handouts/ProblemWrite/ProblemWrite.pdf][Link]]
+**** _*Liste an anderen "handouts"*_, [[https://web.evanchen.cc/olympiad.html][Link]]
+Zur Vollständigkeit/Übersichtlichkeit habe ich vieles davon auch nochmal weiter unten unter den jeweiligen Teilgebieten angeführt.
 *** Aufgabensammlungen
 ** Algebra
+*** Allgemeines zu Ungleichungen
+**** _*Olympiad Inequalities*_, Thomas J. Mildorf, [[https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf][Skriptum]]
+  Absolutes Standardwerk zu Olympiade-Ungleichungen, das sowohl ganz klassische Beispiele als auch ungewöhnliche Tricks beinhaltet. Steigt jedoch auf recht hohem Niveau ein, also am ehesten für die Vorbereitung auf einen Bundeswettbewerb geeignet. Außerdem schon etwas älter, bespricht also eher Ungleichungen im alten Stil, und nicht diese wie z.B. IMO 2020 und 2021.
+**** _*Einführung zu Ungleichungen*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/53/download][Skriptum]], [[https://oemo.at/OeMO/Downloads/datei/70/download][Skriptum und Aufgaben]]
+**** _*A Brief Introduction to Olympiad Inequalities*_, Evan Chen, [[https://web.evanchen.cc/handouts/Ineq/en.pdf][Skriptum]]
+**** _*Liste an Lösungen der Nesbitt-Ungleichung*_, AoPS, [[https://artofproblemsolving.com/wiki/index.php/Nesbitt%27s_Inequality][wiki page]]
+Die Ungleichung von Nesbitt ist nicht deshalb spannend, weil sie so oft gebraucht wird, sondern weil sie sich auf so viele verschiedene Arten und Weisen lösen lässt, und man daran Methoden erlernen kann.
+*** Folgen und Reihen
+**** _*Folgen und Reihen*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/67/download][Skriptum]]
+*** Substitutionen
+- _*Useful Substitutions in Inequalities*_, Brilliant, [[https://brilliant.org/wiki/useful-substitutions-in-inequalities/][wiki page]]
+- _*Ravi Substitution explained*_, [[https://mblog1024.wordpress.com/][blog post]]
+*** Bernoulli-Ungleichung
+**** _*Ungleichungen zwischen Folgen mit exponentiellem Wachstum und linearem oder polynomiellem Wachstum*_, Theresia Eisenkölbl, [[https://oemo.at/OeMO/d/exponentiell-polynomiell][Skriptum]]
+*** Brachialmethoden ("Dumbassing")
+Die hier angeführten Methoden sind im Wesentlichen jene, die intensiv-vorbereitete Teams (z.B. China) dazu nutzen, um Ungleichungen auf reines Rechnen rechnen zurückzuführen. Ich /persönlich/ empfehle nicht, sich diese für die eigene Olympiade-Karriere anzueignen, da sie für die ÖMO definitiv nicht notwendig sind, und Aufgaben, die sich so lösen lassen, wegen der Stumpfheit solcher Lösungen mittlerweile bei internationalen Bewerben vermieden werden. Nichtsdestotrotz gibt es ja andere Meinungen, und manche Leute interessiert's vielleicht, darum ist hier trotzdem einiges angeführt.
+**** _*The Art of Dumbassing*_, Brian Hamrick, [[https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYy85L2Q2MTUzZWZiZTZhN2UwNDMzODdjZjVlYWFmOWUzOGY1MzgyYTZhLnBkZg==&rn=Q2hpbmVzZSBEdW1iYXNzIE5vdGF0aW9uIC0gQnJpYW4gSGFtcmljayAtIFggMjAxMC5wZGY=][Skriptum]]
+**** _*Supersums of Square-Weights (SOS)*_, Evan Chen, [[https://web.evanchen.cc/handouts/SOS_Dumbass/SOS_Dumbass.pdf][Skriptum]]
 ** Geometrie
+*** Allgemeines zu Geometrie
+**** <<egmo>> _*Euclidean Geometry in Mathematical Olympiads*_, Evan Chen, [[https://web.evanchen.cc/geombook.html][Buch]]
+Standardwerk zur Olympiade-Geometrie. Auch als EGMO abgekürzt (nicht zu verwechseln mit der European Girls Mathematical Olympiad). Einer der großen Vorteile des Buches ist, dass es keinerlei Vorkenntnisse benötigt.
+**** _*Formelsammlung Geometrie*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/29/download][Skriptum]]
+könnte auch "Sätzesammlung" heißen
+**** _*Fortgeschrittene Geometrie für Mathematikolympioniken*_, Yimin Ge, [[https://www.yumpu.com/de/document/view/21652299/fortgeschrittene-geometrie-fur-mathematikolympioniken][Skriptum]]
 ** Kombinatorik
+**** _*Kombinatorik*_, Stephan Wagner, [[https://oemo.at/OeMO/Downloads/datei/398/download][Skriptum]]
+*** Schubfachschluss
+**** _*Schubfachschluss (Pigeonhole Principle)*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/552/download][Handout]]
+*** Spiele
+**** _*Spiele (Kombinatorik)*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/553/download][Handout]]
+*** Extremalprinzip
+**** _*Warum Außenseiter interessant sind (Extremalprinzip)*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/550/download][Handout]]
+*** Invarianten, Monovarianten
+**** _*Invarianten und Monovarianten*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/551/download][Handout]]
 ** Zahlentheorie
+*** Allgemeines zur Zahlentheorie
+**** _*Skripten von Clemens Heuberger*_: [[https://oemo.at/OeMO/Downloads/datei/93/download][JRW]], [[https://oemo.at/OeMO/Downloads/datei/93/download][RWF]], [[https://oemo.at/OeMO/Downloads/datei/18/download][BWV/BWF]]
 * Uni-Mathe
 ** Allgemeine Empfehlungen
 **** _*An Infinitely Large Napkin*_, Evan Chen, [[https://web.evanchen.cc/napkin.html][Link]]
@@ -27,21 +71,53 @@ Ein riesiges Dokument, in dem nur wenige Themen der universitären Mathematik ni
 
 **** _*Videos von Richard Borcherds*_, [[https://www.youtube.com/@richarde.borcherds7998][Link]]
 Richard Borcherds ist ein Fields-Medaillist, berühmt durch seine arbeiten an der "monstrous moonshine conjecture". Seit der Pandemie stellt er Vorlesungsvideos auf YouTube. Diese sind zwar weder detailliert vorbereitet noch hochqualitativ aufgenommen. Das besondere und meiner Meinung nach empfehlenswerteste an seinen Videos ist aber, mit welcher Direktheit und Ehrlichkeit er über die Themen und auch seine eigenen Erfahrungen mit ihnen spricht.
+**** _*Videos von Edmund Weitz*_, [[https://www.youtube.com/@WeitzHAWHamburg][Link]]
+Weitz' Videos sind oft sehr gute Ersteinführungen in ein Thema. Klar aufbereitet und mit schönen Visualisierungen erklärt, mit Portraits und historischen Anekdoten unterlegt, und dabei (bis auf begründete Ausnahmen) trotz Anschaulichkeit stets rigoros. Um tiefer in die Materie einzudringen - so sagt er selbst - soll man besser Bücher lesen oder Aufgaben bearbeiten, als Videos zu schauen.
 **** _*3Blue1Brown*_, Grant Sanderson, [[https://www.youtube.com/@3blue1brown][Videos]]
 Auch in der Kategorie Uni-Mathe muss 3B1B natürlich erwähnt werden. Die Videos fokussieren sich mehr auf Anschaulichkeit als auf inhaltliche Breite. Dafür lernt man, auch wenn man sich in einem Thema eigentlich schon auskennt, immer neue Interpretationen und Veranschaulichungen kennen.
 
 ** Lineare Algebra
 - _*Vorlesung von Tim Netzer*_, Uni Innsbruck, [[https://www.uibk.ac.at/mathematik/algebra/media/teaching/lineare-algebra.pdf][Skriptum]] und [[https://www.youtube.com/channel/UCeOqc4erLBNzmOtKWfLDe4w][Videos]]
 ** Analysis
+*** Grundlegende reelle Analysis
+**** <<hell_analysis>> _*Analysis 1 Vorlesung von Tobias Hell*_, Uni Innsbruck, Videos auf [[https://www.youtube.com/@TobiasHell/playlists][YouTube-Kanal]], Skripten auf [[https://www.uibk.ac.at/mathematik/personal/hell/lehre.html][Homepage]] (auch mit Videolinks)
+  Zusammen mit Alexander Ostermann gehalten. Besonders geeignet für Physiker:innen und Studienanfänger:innen ohne Olympiade-Background. Dafür nicht 100% formalistisch korrekt (z.B. Winkel werden anschaulich eingeführt und damit Winkelfunktionen wie in der Schule definiert, während in den meisten formalen Analysis-Einführungen Winkelfunktionen durch ihre Reihendarstellungen definiert werden). Mensch muss wohl abwiegen, ob gerade etwas Formalistischeres oder etwas Anschaulicheres gesucht ist (vgl. [[https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/][dieser Blogartikel]] von Terence Tao).
+*** Analysis in mehreren Veränderlichen
+**** _*Analysis 2 Vorlesung von Tobias Hell*_, siehe [[hell_analysis][Analyis 1]]
+*** Komplexe Analysis (Funktionentheorie)
+*** Funktionalanalysis
+*** Gewöhnliche Differentialgleichungen
+*** Partielle Differentialgleichungen
 ** Algebra
-- _*Vorlesung von Tim Netzer*_, Uni Innsbruck, [[https://www.uibk.ac.at/mathematik/algebra/media/teaching/algebra.pdf][Skriptum]]
-  Beinhaltet grundlegende Gruppentheorie, Ringtheorie, Körper- und Galoistheorie, Moduln, etwas nichtkommutative Algebra (Quaternionen) und noch ein paar Extras und Anwendungen
-**** asd
+**** _*Vorlesung von Tim Netzer*_, Uni Innsbruck, [[https://www.uibk.ac.at/mathematik/algebra/media/teaching/algebra.pdf][Skriptum]]
+  Beinhaltet grundlegende Gruppentheorie, Ringtheorie, Körper- und Galoistheorie, Moduln, etwas nichtkommutative Algebra (Quaternionen) und noch ein paar Extras und Anwendungen.
+*** Gruppentheorie
+*** Galoistheorie
+*** Darstellungstheorie
 ** Stochastik
+*** Maß- und Integrationstheorie
+*** Wahrscheinlichkeitsrechnung
+*** Statistik
+**** _*Vorlesung von Tobias Hell*_, Uni Innsbruck Videos auf [[https://www.youtube.com/@TobiasHell/playlists][YouTube-Kanal]], Skripten auf [[https://www.uibk.ac.at/mathematik/personal/hell/lehre.html][Homepage]] (auch mit Videolinks)
 ** Numerik
 ** Geometrie und Topologie
+**** _*[[https://www.youtube.com/watch?v=AmgkSdhK4K8][Who cares about topology? (Inscribed rectangle problem)]]*_, 3Blue1Brown
+  Motiviert die mengentheoretische Topologie Anhand der Lösung eines geometrischen Problems (vgl. [[https://de.wikipedia.org/wiki/Toeplitz-Vermutung][Toeplitz-Vermutung]]).
 ** Zahlentheorie
+**** _*[[https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8][Introduction to number theory]]*_, Vorlesung/Videoreihe von Richard Borcherds
+Behandelt sowohl elementare Zahlentheorie als auch Grundlagen der analytischen Zahlentheorie, und natürlich ein sehr charmantes Video über Taschenrechner für Zahlentheoretiker:innen.
 ** Mengenlehre
+*** Axiomatische Mengenlehre
+**** _*[[https://www.youtube.com/watch?v=U10UYyXv5gM][Das Zermelo-Fraenkel-Axiomensystem der Mengenlehre (ZF)]]*_, Video von Edmund Weitz
+Sehr gut geeignet, falls man sich schon immer mal gefragt hat, was diese berüchtigten Axiome nun eigentlich aussagen. Inkl. dafür notwendigem Crashkurs in Prädikatenlogik.
+**** _*[[https://www.youtube.com/playlist?list=PL8yHsr3EFj52EKVgPi-p50fRP2_SbG2oi][Zermelo Fraenkel axioms]]*_, Vorlesung/Videoreihe von Richard Borcherds
+Vielleicht nicht geeignet für die erste Begegnung mit den Axiomen. Dafür besonders spannend, wenn es darum geht, was passiert, wenn gewisse Axiome weggelassen werden.
+*** Ordinal- und Kardinalzahlen ("verschiedene Unendlichkeiten")
+**** _*[[https://www.youtube.com/watch?v=SrU9YDoXE88][How To Count Past Infinity]]*_, Video von Vsauce
+Eher populärwissenschaftlich, aber als erste Exposition auch für Studierende sehr gut.
+**** _*[[https://www.youtube.com/watch?v=UxhFy4deLQA][Unendlich plus eins - Was sind Ordinalzahlen?]]*_, Video von Edmund Weitz
+**** _*[[https://www.youtube.com/watch?v=qijXa3U4Nag][Was sind Kardinalzahlen? Was besagt die Kontinuumshypothese?]]*_, Video von Edmund Weitz
+** Mathematische Logik
 ** Theoretische Informatik
 ** Kombinatorik und diskrete Mathematik
 
