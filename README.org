@@ -24,23 +24,54 @@ Skriptum bestehend aus 192 Aufgaben und Lösungen aus dem [[https://web.evanchen
 **** _*From the Author’s Side: Thoughts on Problem Writing*_, [[https://web.evanchen.cc/handouts/ProblemWrite/ProblemWrite.pdf][Link]]
 **** _*Liste an anderen "handouts"*_, [[https://web.evanchen.cc/olympiad.html][Link]]
 Zur Vollständigkeit/Übersichtlichkeit habe ich vieles davon auch nochmal weiter unten unter den jeweiligen Teilgebieten angeführt.
+*** <<schweiz>> Skripten und Aufgabensammlungen der Schweizer Matheolympiade, [[https://mathematical.olympiad.ch/de/skripts][link]]
+Alles, was ich davon gesehen habe, war sehr gut geschrieben. Außerdem ist fast alles auf Deutsch verfügbar. Zur Vollständigkeit/Übersichtlichkeit sind die Skripten unten nochmals unter den jeweiligen Teilgebieten verlinkt.
+*** Brilliant Wiki, [[https://brilliant.org][website]]
+Die vielen vermutlich durch Sponsor-Segments in YouTube-Videos bekannte Lernplattform Brilliant bietet auch einige Ressourcen zu Olympiade-Mathematik. Die /Wiki/-Artikel von Brilliant sind /frei zugänglich/. Nur gibt es für diese meines Wissens keine allgemeine Übersichtsseite, daher findet man spezifische Artikel am besten mit der Suchmaschine der Wahl, oder hier unter den jeweiligen Teilgebieten weiter unten.
+
+Mit einem bezahlten Abo bekommt man wohl Zugang zu noch mehr Inhalten, damit habe ich allerdings keine Erfahrung.
+*** Mathematical Olympiads Discord Server (MODS), [[https://mathematics.isodn.org/][website]]
+Discord Community für Mathe-Olympiaden aller Länder. Discord Invite-Link ist auf der Website zu finden. MODS veranstaltet auch einige Übungswettbewerbe oder Kurse.
+Außerdem haben die auch eine Ressourcen-Liste, [[https://docs.google.com/spreadsheets/d/15GeYB6Y_x07IGLIhfMSuXFC514ru_QFn26IZNAcWFic/edit#gid=0][link]].
 *** Aufgabensammlungen
+**** Ehemalige Wettbewerbsaufgaben der ÖMO
+In den letzten Jahren auf der [[https://oemo.at/OeMO/aufgaben/][homepage]] einsehbar. Ältere Aufgaben und Lösungen gibt's in Buchform, z.B.:
+"Österreichische Mathematik-Olympiaden 2009-2018", Gerd Baron & Karl Czakler & Clemens Heuberger & Walther Janous & Reinhard Razen, ISBN: 978-3-96111-797-0
 ** Algebra
 *** Allgemeines zu Ungleichungen
 **** _*Olympiad Inequalities*_, Thomas J. Mildorf, [[https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf][Skriptum]]
   Absolutes Standardwerk zu Olympiade-Ungleichungen, das sowohl ganz klassische Beispiele als auch ungewöhnliche Tricks beinhaltet. Steigt jedoch auf recht hohem Niveau ein, also am ehesten für die Vorbereitung auf einen Bundeswettbewerb geeignet. Außerdem schon etwas älter, bespricht also eher Ungleichungen im alten Stil, und nicht diese wie z.B. IMO 2020 und 2021.
 **** _*Einführung zu Ungleichungen*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/53/download][Skriptum]], [[https://oemo.at/OeMO/Downloads/datei/70/download][Skriptum und Aufgaben]]
+**** _*Ungleichungen 1 (Schweiz)*_, Arnaud Maret, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/algebra/inequalities-1/script/inequalities-1_script_de.pdf][Skriptum]]
+**** _*Ungleichungen 2 (Schweiz)*_, Thomas Huber, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/algebra/inequalities-2/script/inequalities-2_script_de.pdf][Skriptum]]
 **** _*A Brief Introduction to Olympiad Inequalities*_, Evan Chen, [[https://web.evanchen.cc/handouts/Ineq/en.pdf][Skriptum]]
+**** _*Inequalities: A Mathematical Olympiad Approach*_, Radmila Bulajich Manfrino & José Antonio Gómez Ortega & Rogelio Valdez Delgado, [[https://www.isinj.com/mt-usamo/Inequalities%20A%20Mathematical%20Olympiad%20Approach%20-%20Manfrino,%20Ortega,%20and%20Delgado%20(Birkhauser,%202009).pdf][Buch]]
 **** _*Liste an Lösungen der Nesbitt-Ungleichung*_, AoPS, [[https://artofproblemsolving.com/wiki/index.php/Nesbitt%27s_Inequality][wiki page]]
 Die Ungleichung von Nesbitt ist nicht deshalb spannend, weil sie so oft gebraucht wird, sondern weil sie sich auf so viele verschiedene Arten und Weisen lösen lässt, und man daran Methoden erlernen kann.
+**** _*Classical Inequalities*_, Brilliant, [[https://brilliant.org/wiki/classical-inequalities/][wiki page]]
 *** Folgen und Reihen
 **** _*Folgen und Reihen*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/67/download][Skriptum]]
+*** Mittelungleichungen
+**** _*Arithmetic Mean - Geometric Mean*_, Brilliant, [[https://brilliant.org/wiki/arithmetic-mean-geometric-mean/][wiki page]]
+**** _*Applying the Arithmetic Mean Geometric Mean Inequality*_, Brilliant, [[https://brilliant.org/wiki/applying-the-arithmetic-mean-geometric-mean/][wiki page]]
+**** _*Power Mean Inequality (QAGH)*_, Brilliant, [[https://brilliant.org/wiki/power-mean-qagh/][wiki page]]
+*** Cauchy-Schwarz
+**** _*Cauchy-Schwarz Inequality*_, Brilliant, [[https://brilliant.org/wiki/cauchy-schwarz-inequality/][wiki page]]
+**** _*Titu's Lemma*_, Brilliant, [[https://brilliant.org/wiki/titus-lemma/][wiki page]]
 *** Substitutionen
-- _*Useful Substitutions in Inequalities*_, Brilliant, [[https://brilliant.org/wiki/useful-substitutions-in-inequalities/][wiki page]]
-- _*Ravi Substitution explained*_, [[https://mblog1024.wordpress.com/][blog post]]
+**** _*Useful Substitutions in Inequalities*_, Brilliant, [[https://brilliant.org/wiki/useful-substitutions-in-inequalities/][wiki page]]
+**** _*Ravi Substitution explained*_, [[https://mblog1024.wordpress.com/][blog post]]
+*** Jensen & Friends
+**** _*Jensen's Inequality*_, Brilliant, [[https://brilliant.org/wiki/jensens-inequality/][wiki page]]
+**** _*evan explains the n-1 equal value principle*_, Evan Chen, [[https://www.youtube.com/watch?v=Kkhuk8GiuOU][video]]
+*** Hölder, Minkowski
+**** _*Hölder's Inequality*_, Brilliant, [[https://brilliant.org/wiki/holders-inequality/][wiki page]]
+*** Schur
+/Anmerkung:/ Die Ungleichung von Schur ist vor allem bei Brute-Force Lösungen relevant, siehe [[brute-force-ineq][hier]]. Da sie aber theoretisch auch in weniger brachialen Lösungen verwendet werden kann, ist sie hier separat angeführt.
+**** _*Schur's Inequality*_, Brilliant, [[https://brilliant.org/wiki/schurs-inequality/][wiki page]]
 *** Bernoulli-Ungleichung
 **** _*Ungleichungen zwischen Folgen mit exponentiellem Wachstum und linearem oder polynomiellem Wachstum*_, Theresia Eisenkölbl, [[https://oemo.at/OeMO/d/exponentiell-polynomiell][Skriptum]]
-*** Brachialmethoden ("Dumbassing")
+*** <<brute-force-ineq>> Brachialmethoden ("Dumbassing")
 Die hier angeführten Methoden sind im Wesentlichen jene, die intensiv-vorbereitete Teams (z.B. China) dazu nutzen, um Ungleichungen auf reines Rechnen rechnen zurückzuführen. Ich /persönlich/ empfehle nicht, sich diese für die eigene Olympiade-Karriere anzueignen, da sie für die ÖMO definitiv nicht notwendig sind, und Aufgaben, die sich so lösen lassen, wegen der Stumpfheit solcher Lösungen mittlerweile bei internationalen Bewerben vermieden werden. Nichtsdestotrotz gibt es ja andere Meinungen, und manche Leute interessiert's vielleicht, darum ist hier trotzdem einiges angeführt.
 **** _*The Art of Dumbassing*_, Brian Hamrick, [[https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYy85L2Q2MTUzZWZiZTZhN2UwNDMzODdjZjVlYWFmOWUzOGY1MzgyYTZhLnBkZg==&rn=Q2hpbmVzZSBEdW1iYXNzIE5vdGF0aW9uIC0gQnJpYW4gSGFtcmljayAtIFggMjAxMC5wZGY=][Skriptum]]
 **** _*Supersums of Square-Weights (SOS)*_, Evan Chen, [[https://web.evanchen.cc/handouts/SOS_Dumbass/SOS_Dumbass.pdf][Skriptum]]
@@ -51,6 +82,8 @@ Standardwerk zur Olympiade-Geometrie. Auch als EGMO abgekürzt (nicht zu verwech
 **** _*Formelsammlung Geometrie*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/29/download][Skriptum]]
 könnte auch "Sätzesammlung" heißen
 **** _*Fortgeschrittene Geometrie für Mathematikolympioniken*_, Yimin Ge, [[https://www.yumpu.com/de/document/view/21652299/fortgeschrittene-geometrie-fur-mathematikolympioniken][Skriptum]]
+*** Potenz eines Punktes, Potenzgerade
+**** _*Episode 1 MIN Road To Olympiad 2021*_, Evan Chen, [[https://www.youtube.com/watch?v=JfTOfFOtiwk][video]]
 ** Kombinatorik
 **** _*Kombinatorik*_, Stephan Wagner, [[https://oemo.at/OeMO/Downloads/datei/398/download][Skriptum]]
 *** Schubfachschluss
