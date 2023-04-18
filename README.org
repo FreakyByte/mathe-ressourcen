@@ -30,13 +30,21 @@ Alles, was ich davon gesehen habe, war sehr gut geschrieben. Außerdem ist fast 
 Die vielen vermutlich durch Sponsor-Segments in YouTube-Videos bekannte Lernplattform Brilliant bietet auch einige Ressourcen zu Olympiade-Mathematik. Die /Wiki/-Artikel von Brilliant sind /frei zugänglich/. Nur gibt es für diese meines Wissens keine allgemeine Übersichtsseite, daher findet man spezifische Artikel am besten mit der Suchmaschine der Wahl, oder hier unter den jeweiligen Teilgebieten weiter unten.
 
 Mit einem bezahlten Abo bekommt man wohl Zugang zu noch mehr Inhalten, damit habe ich allerdings keine Erfahrung.
-*** Mathematical Olympiads Discord Server (MODS), [[https://mathematics.isodn.org/][website]]
+*** Online-Communities
+**** _*Art of Problem Solving*_, [[https://artofproblemsolving.com/community][website]]
+Das größte Onlineforum zu Mathematik-Olympiaden. Hier findet man u.a. Threads zu den Aufgaben vieler internationaler Wettbewerbe, und die Nutzer:innen stellen ihre Lösungen dazu rein. Nur sollte man es nicht zu ernst nehmen, wenn Leute dort meinen, eine Aufgabe sei viel zu leicht gewesen. ;)
+**** _*Mathematical Olympiads Discord Server (MODS)*_, [[https://mathematics.isodn.org/][website]]
 Discord Community für Mathe-Olympiaden aller Länder. Discord Invite-Link ist auf der Website zu finden. MODS veranstaltet auch einige Übungswettbewerbe oder Kurse.
 Außerdem haben die auch eine Ressourcen-Liste, [[https://docs.google.com/spreadsheets/d/15GeYB6Y_x07IGLIhfMSuXFC514ru_QFn26IZNAcWFic/edit#gid=0][link]].
+*** YouTube-Kanäle, die Olympiade-Aufgaben besprechen
+**** _*Michael Penn*_, [[https://www.youtube.com/playlist?list=PL22w63XsKjqyUvA_zdG49MVttsu0H6bwJ][playlist]]
+**** _*Dedekind cuts*_, [[https://www.youtube.com/@dedekindcuts3589][YouTube-Kanal]]
 *** Aufgabensammlungen
-**** Ehemalige Wettbewerbsaufgaben der ÖMO
+**** _*Ehemalige Wettbewerbsaufgaben der ÖMO*_
 In den letzten Jahren auf der [[https://oemo.at/OeMO/aufgaben/][homepage]] einsehbar. Ältere Aufgaben und Lösungen gibt's in Buchform, z.B.:
 "Österreichische Mathematik-Olympiaden 2009-2018", Gerd Baron & Karl Czakler & Clemens Heuberger & Walther Janous & Reinhard Razen, ISBN: 978-3-96111-797-0
+**** _*Ehemalige Wettbewerbsaufgaben der Schweizer Matheolympiade*_, [[https://mathematical.olympiad.ch/de/alte-pruefungen][link]]
+**** _*The IMO Compendium*_, [[https://nagyzoli.web.elte.hu/compendium.pdf][link]]
 ** Algebra
 *** Allgemeines zu Ungleichungen
 **** _*Olympiad Inequalities*_, Thomas J. Mildorf, [[https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf][Skriptum]]
@@ -49,8 +57,16 @@ In den letzten Jahren auf der [[https://oemo.at/OeMO/aufgaben/][homepage]] einse
 **** _*Liste an Lösungen der Nesbitt-Ungleichung*_, AoPS, [[https://artofproblemsolving.com/wiki/index.php/Nesbitt%27s_Inequality][wiki page]]
 Die Ungleichung von Nesbitt ist nicht deshalb spannend, weil sie so oft gebraucht wird, sondern weil sie sich auf so viele verschiedene Arten und Weisen lösen lässt, und man daran Methoden erlernen kann.
 **** _*Classical Inequalities*_, Brilliant, [[https://brilliant.org/wiki/classical-inequalities/][wiki page]]
-*** Folgen und Reihen
+*** Allgemeines zu Polynomen
+**** _*Polynome (Schweiz)*_, Thomas Huber, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/algebra/polynomials/script/polynomials_script_de.pdf][Skriptum]]
+*** Allgemeines zu Folgen und Reihen
 **** _*Folgen und Reihen*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/67/download][Skriptum]]
+**** _*Folgen*_, Arnaud Maret, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/algebra/sequences/script/sequences_script_de.pdf][Skriptum]]
+*** Allgemeines zu Funktionalgleichungen
+**** _*Introduction to Functional Equations*_, Evan Chen, [[https://web.evanchen.cc/handouts/FuncEq-Intro/FuncEq-Intro.pdf][Skriptum]]
+**** _*Funktionalgleichungen 1 (Schweiz)*_, Thomas Huber & Arnaud Maret, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/algebra/functional-equations-1/script/functional-equations-1_script_de.pdf][Skriptum]]
+**** _*Monsters*_, Evan Chen, [[https://web.evanchen.cc/handouts/Monsters/Monsters.pdf][Skriptum]]
+über "monströse" Funktionalgleichungen
 *** Mittelungleichungen
 **** _*Arithmetic Mean - Geometric Mean*_, Brilliant, [[https://brilliant.org/wiki/arithmetic-mean-geometric-mean/][wiki page]]
 **** _*Applying the Arithmetic Mean Geometric Mean Inequality*_, Brilliant, [[https://brilliant.org/wiki/applying-the-arithmetic-mean-geometric-mean/][wiki page]]
@@ -58,45 +74,102 @@ Die Ungleichung von Nesbitt ist nicht deshalb spannend, weil sie so oft gebrauch
 *** Cauchy-Schwarz
 **** _*Cauchy-Schwarz Inequality*_, Brilliant, [[https://brilliant.org/wiki/cauchy-schwarz-inequality/][wiki page]]
 **** _*Titu's Lemma*_, Brilliant, [[https://brilliant.org/wiki/titus-lemma/][wiki page]]
+*** Umordnungsungleichung
+**** _*Rearrangement Inequality*_, Brilliant, [[https://brilliant.org/wiki/rearrangement-inequality/][wiki page]]
+**** _*Rearrangement Inequality*_, Holden Lee, [[https://holdenlee.github.io/high_school/omc/23-rearrange.pdf][Skriptum]]
+**** _*Reverse Rearrangement Inequality*_, Brilliant, [[https://brilliant.org/wiki/reverse-rearrangement-inequality/][wiki page]]
+*** Tschebyshew
+**** _*Chebyshev's Inequality*_, Brilliant, [[https://brilliant.org/wiki/chebyshev-inequality/][wiki page]]
 *** Substitutionen
 **** _*Useful Substitutions in Inequalities*_, Brilliant, [[https://brilliant.org/wiki/useful-substitutions-in-inequalities/][wiki page]]
 **** _*Ravi Substitution explained*_, [[https://mblog1024.wordpress.com/][blog post]]
 *** Jensen & Friends
 **** _*Jensen's Inequality*_, Brilliant, [[https://brilliant.org/wiki/jensens-inequality/][wiki page]]
 **** _*evan explains the n-1 equal value principle*_, Evan Chen, [[https://www.youtube.com/watch?v=Kkhuk8GiuOU][video]]
+*** Cauchysche Funktionalgleichung
+**** _*Funktionalgleichungen II - Die Cauchy-Funktionalgleichungen*_, Thomas Huber & Arnaud Maret, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/algebra/functional-equations-2/script/functional-equations-2_script_de.pdf][Skriptum]]
 *** Hölder, Minkowski
 **** _*Hölder's Inequality*_, Brilliant, [[https://brilliant.org/wiki/holders-inequality/][wiki page]]
+*** Geometrische Ungleichungen
+**** _*Geometrie III (Schweiz)*_, Daniel Sprecher, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/geometry/geometry-3/script/geometry-3_script_de.pdf][Skriptum]]
 *** Schur
 /Anmerkung:/ Die Ungleichung von Schur ist vor allem bei Brute-Force Lösungen relevant, siehe [[brute-force-ineq][hier]]. Da sie aber theoretisch auch in weniger brachialen Lösungen verwendet werden kann, ist sie hier separat angeführt.
 **** _*Schur's Inequality*_, Brilliant, [[https://brilliant.org/wiki/schurs-inequality/][wiki page]]
 *** Bernoulli-Ungleichung
 **** _*Ungleichungen zwischen Folgen mit exponentiellem Wachstum und linearem oder polynomiellem Wachstum*_, Theresia Eisenkölbl, [[https://oemo.at/OeMO/d/exponentiell-polynomiell][Skriptum]]
+*** Lagrange-Multiplikatoren
+**** _*Lagrange Murderpliers Done Correctly*_, Evan Chen, [[https://web.evanchen.cc/handouts/LM/LM.pdf][Skriptum]]
 *** <<brute-force-ineq>> Brachialmethoden ("Dumbassing")
-Die hier angeführten Methoden sind im Wesentlichen jene, die intensiv-vorbereitete Teams (z.B. China) dazu nutzen, um Ungleichungen auf reines Rechnen rechnen zurückzuführen. Ich /persönlich/ empfehle nicht, sich diese für die eigene Olympiade-Karriere anzueignen, da sie für die ÖMO definitiv nicht notwendig sind, und Aufgaben, die sich so lösen lassen, wegen der Stumpfheit solcher Lösungen mittlerweile bei internationalen Bewerben vermieden werden. Nichtsdestotrotz gibt es ja andere Meinungen, und manche Leute interessiert's vielleicht, darum ist hier trotzdem einiges angeführt.
+Die hier angeführten Methoden sind im Wesentlichen jene, die intensiv-vorbereitete Teams (z.B. China) dazu nutzen, um Ungleichungen auf reines Rechnen zurückzuführen. Ich /persönlich/ empfehle nicht, sich diese für die eigene Olympiade-Karriere anzueignen, da sie für die ÖMO definitiv nicht notwendig sind, und Aufgaben, die sich so lösen lassen, wegen der Stumpfheit solcher Lösungen mittlerweile bei internationalen Bewerben vermieden werden. Nichtsdestotrotz gibt es ja andere Meinungen, und manche Leute interessiert's vielleicht, darum ist hier trotzdem einiges angeführt.
 **** _*The Art of Dumbassing*_, Brian Hamrick, [[https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYy85L2Q2MTUzZWZiZTZhN2UwNDMzODdjZjVlYWFmOWUzOGY1MzgyYTZhLnBkZg==&rn=Q2hpbmVzZSBEdW1iYXNzIE5vdGF0aW9uIC0gQnJpYW4gSGFtcmljayAtIFggMjAxMC5wZGY=][Skriptum]]
 **** _*Supersums of Square-Weights (SOS)*_, Evan Chen, [[https://web.evanchen.cc/handouts/SOS_Dumbass/SOS_Dumbass.pdf][Skriptum]]
 ** Geometrie
 *** Allgemeines zu Geometrie
 **** <<egmo>> _*Euclidean Geometry in Mathematical Olympiads*_, Evan Chen, [[https://web.evanchen.cc/geombook.html][Buch]]
 Standardwerk zur Olympiade-Geometrie. Auch als EGMO abgekürzt (nicht zu verwechseln mit der European Girls Mathematical Olympiad). Einer der großen Vorteile des Buches ist, dass es keinerlei Vorkenntnisse benötigt.
+**** _*Fortgeschrittene Geometrie für Mathematikolympioniken*_, Yimin Ge, [[https://www.yumpu.com/de/document/view/21652299/fortgeschrittene-geometrie-fur-mathematikolympioniken][Skriptum]]
+**** _*Skripten der Schweizer Matheolympiade*_: [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/geometry/geometry-1/script/geometry-1_script_de.pdf][I]], [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/geometry/geometry-2/script/geometry-2_script_de.pdf][II]], [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/geometry/geometry-3/script/geometry-3_script_de.pdf][III]]
 **** _*Formelsammlung Geometrie*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/29/download][Skriptum]]
 könnte auch "Sätzesammlung" heißen
-**** _*Fortgeschrittene Geometrie für Mathematikolympioniken*_, Yimin Ge, [[https://www.yumpu.com/de/document/view/21652299/fortgeschrittene-geometrie-fur-mathematikolympioniken][Skriptum]]
+**** _*Some Notes on Constructing Diagrams*_, Evan Chen, [[https://web.evanchen.cc/handouts/Constructions/Constructions.pdf][Skriptum]]
+*** Ähnliche Dreiecke
+**** _*The Three Square Geometry Problem*_, Numberphile, [[https://www.youtube.com/watch?v=m5evLoL0xwg][video]]
+*** Südpolsatz
+**** _*The Incenter/Excenter Lemma*_, Evan Chen, [[https://web.evanchen.cc/handouts/Fact5/Fact5.pdf][Handout]]
+(erweiterter Südpolsatz)
+*** Eulersche Gerade
+**** _*Triangles have a Magic Highway*_, Numberphile, [[https://www.youtube.com/watch?v=wVH4MS6v23U][video]]
+*** Gerichtete Winkel
+**** _*How to Use Directed Angles*_, Evan Chen, [[https://web.evanchen.cc/handouts/Directed-Angles/Directed-Angles.pdf][Handout]]
 *** Potenz eines Punktes, Potenzgerade
 **** _*Episode 1 MIN Road To Olympiad 2021*_, Evan Chen, [[https://www.youtube.com/watch?v=JfTOfFOtiwk][video]]
+*** Inversion
+**** _*A Miraculous Proof (Ptolemy's Theorem)*_, Numberphile, [[https://www.youtube.com/watch?v=bJOuzqu3MUQ][video]]
+*** "Bashing" - Koordinatensysteme etc.
+**** _*Barycentric Coordinates in Olympiad Geometry*_, Max Schindler & Evan Chen, [[https://web.evanchen.cc/handouts/bary/bary-full.pdf][Skriptum]], [[https://web.evanchen.cc/handouts/bary/bary-short.pdf][gekürztes Skriptum]]
+**** _*Bashing Geometry with Complex Numbers*_, Evan Chen, [[https://web.evanchen.cc/handouts/cmplx/en-cmplx.pdf][Skriptum]]
 ** Kombinatorik
+*** Allgemeines zu Kombinatorik
 **** _*Kombinatorik*_, Stephan Wagner, [[https://oemo.at/OeMO/Downloads/datei/398/download][Skriptum]]
+*** Enumerative Kombinatorik
+**** _*Kombinatorik*_, Thomas Huber & Viviane Kehl, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/combinatorics/combinatorics-1/script/combinatorics-1_script_de.pdf][Skriptum]]
 *** Schubfachschluss
 **** _*Schubfachschluss (Pigeonhole Principle)*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/552/download][Handout]]
+**** _*Schubfachprinzip (Schweiz)*_, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/combinatorics/pigeonhole-principle/script/pigeonhole-principle_script_de.pdf][Handout]]
 *** Spiele
 **** _*Spiele (Kombinatorik)*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/553/download][Handout]]
+**** _*Combinatorial Games (Schweiz)*_, Tanish Patil, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/combinatorics/combinatorial-games/script/combinatorial-games_script_en.pdf][Skriptum]]
 *** Extremalprinzip
 **** _*Warum Außenseiter interessant sind (Extremalprinzip)*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/550/download][Handout]]
 *** Invarianten, Monovarianten
 **** _*Invarianten und Monovarianten*_, Birgit Vera Schmidt, [[https://oemo.at/OeMO/Downloads/datei/551/download][Handout]]
+**** _*Das Invarianzprinzip (Schweiz)*_, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/combinatorics/invariance-principle/script/invariance-principle_script_de.pdf][Handout]]
+**** _*Pebbling a Chessboard*_, Numberphile, [[https://www.youtube.com/watch?v=lFQGSGsXbXE][video]]
+**** _*Conway Checkers*_, Numberphile, [[https://www.youtube.com/watch?v=FtNWzlfEQgY][videos]]
+*** Färbungen
+**** _*Färbungsbeweise (Schweiz)*_, Thomas Huber, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/combinatorics/colouring/script/colouring_script_de.pdf][Handout]]
+*** Erzeugende Funktionen
+**** _*Olympiad level counting*_, 3Blue1Brown, [[https://www.youtube.com/watch?v=bOXCLR3Wric][video]]
+**** _*Ein cleverer Trick: erzeugende Funktionen*_, Edmund Weitz, [[https://www.youtube.com/watch?v=dg_YgkOUb14][video]]
+**** _*Die Formel von Moivre-Binet (Fibonacci-Folge, Goldener Schnitt und erzeugende Funktionen)*_, Edmund Weitz, [[https://www.youtube.com/watch?v=xOXx3ps8lls][video]]
+*** Probabilistische Methode
+**** _*Expected Uses of Probability*_, Evan Chen, [[https://web.evanchen.cc/handouts/ProbabilisticMethod/ProbabilisticMethod.pdf][Skriptum]]
 ** Zahlentheorie
 *** Allgemeines zur Zahlentheorie
 **** _*Skripten von Clemens Heuberger*_: [[https://oemo.at/OeMO/Downloads/datei/93/download][JRW]], [[https://oemo.at/OeMO/Downloads/datei/93/download][RWF]], [[https://oemo.at/OeMO/Downloads/datei/18/download][BWV/BWF]]
+**** _*Skripten der Schweizer Matheolympiade*_: [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/number-theory/number-theory-1/script/number-theory-1_script_de.pdf][I]], [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/number-theory/number-theory-2/script/number-theory-2_script_de.pdf][II]], [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/number-theory/number-theory-3/script/number-theory-3_script_de.pdf][III]]
+*** Chinesischer Restsatz
+**** _*Chinese Remainder Theorem and Cards*_, Numberphile, [[https://www.youtube.com/watch?v=l9dXo5f3zDc&pp=ygUZY2hpbmVzZSByZW1haW5kZXIgdGhlb3JlbQ%3D%3D][Video]]
+gute Einführung für intuitives Verständnis
+**** _*The Chinese Remainder Theorem*_, Evan Chen, [[https://web.evanchen.cc/handouts/CRT/CRT.pdf][Skriptum]]
+*** Ordnung
+**** _*Orders Modulo A Prime*_, Evan Chen, [[https://web.evanchen.cc/handouts/ORPR/ORPR.pdf][Skriptum]]
+*** LTE-Lemma
+**** _*Lifting The Exponent*_, Brilliant, [[https://brilliant.org/wiki/lifting-the-exponent/][wiki page]]
+** Misc.
+*** Induktion
+**** _*Epic Induction*_, Numberphile, [[https://www.youtube.com/watch?v=bylFzBxzQ9M][video]]
+**** _*Induktion (Schweiz)*_, [[https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/scripts/combinatorics/induction/script/induction_script_de.pdf][Skriptum]]
 * Uni-Mathe
 ** Allgemeine Empfehlungen
 **** _*An Infinitely Large Napkin*_, Evan Chen, [[https://web.evanchen.cc/napkin.html][Link]]
@@ -114,7 +187,7 @@ Auch in der Kategorie Uni-Mathe muss 3B1B natürlich erwähnt werden. Die Videos
 ** Analysis
 *** Grundlegende reelle Analysis
 **** <<hell_analysis>> _*Analysis 1 Vorlesung von Tobias Hell*_, Uni Innsbruck, Videos auf [[https://www.youtube.com/@TobiasHell/playlists][YouTube-Kanal]], Skripten auf [[https://www.uibk.ac.at/mathematik/personal/hell/lehre.html][Homepage]] (auch mit Videolinks)
-  Zusammen mit Alexander Ostermann gehalten. Besonders geeignet für Physiker:innen und Studienanfänger:innen ohne Olympiade-Background. Dafür nicht 100% formalistisch korrekt (z.B. Winkel werden anschaulich eingeführt und damit Winkelfunktionen wie in der Schule definiert, während in den meisten formalen Analysis-Einführungen Winkelfunktionen durch ihre Reihendarstellungen definiert werden). Mensch muss wohl abwiegen, ob gerade etwas Formalistischeres oder etwas Anschaulicheres gesucht ist (vgl. [[https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/][dieser Blogartikel]] von Terence Tao).
+  Zusammen mit Alexander Ostermann gehalten. Besonders geeignet für Physiker:innen und Studienanfänger:innen ohne Olympiade-Background. Dafür nicht 100% formalistisch korrekt (z.B. Winkel werden anschaulich eingeführt und damit Winkelfunktionen wie in der Schule definiert, während in den meisten formalen Analysis-Einführungen Winkelfunktionen durch ihre Reihendarstellungen definiert werden). Mensch muss wohl abwägen, ob gerade etwas Formalistischeres oder etwas Anschaulicheres gesucht ist (vgl. [[https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/][dieser Blogartikel]] von Terence Tao).
 *** Analysis in mehreren Veränderlichen
 **** _*Analysis 2 Vorlesung von Tobias Hell*_, siehe [[hell_analysis][Analyis 1]]
 *** Komplexe Analysis (Funktionentheorie)
