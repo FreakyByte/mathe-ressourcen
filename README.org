@@ -11,10 +11,33 @@
 * About
 Zuletzt aktualisiert: {{{time(%d.%m.%Y %H:%M)}}}.
 
+*Zur Übersichtlichkeit beachte man die _Collapse-Funktion_ oben rechts.* Wenn ich mal dazu komme, bau ich das hier so um, dass diese Funktion standardmäßig aktiviert ist.
+
+Ich werde immer öfter sowohl von Mathe-Olympionik:innen, von Mitstudierenden als auch hin und wieder von interessierten Laien gefragt, ob ich denn ein Buch/Skript/Video empfehlen könnte, um ein bestimmtes Thema zu lernen. Daher gibt's nun diese Seite, damit ich Leuten einfach einen Link schicken kann, und ich nicht wie so oft die Hälfte zu erwähnen vergesse.
+
+Natürlich ist diese Zusammenstellung rein subjektiv ausgewählt, auch wenn ich glaube, zumindest halbwegs gute Tipps zu geben. Bei manchen wenigen Ressourcen ist eine "Begründung" angegeben, bzw. ein Hinweis darauf, für welche Zielgruppen die Ressource evtl. gut bzw. nicht so gut geeignet ist. In den meisten Fällen schmeiß ich aber einfach rein, was mir gefällt, und rechtfertige mich nicht.
+
+Ich erwähne hier ausschließlich Ressourcen, die gut zugänglich sind. Damit meine ich u.a. YouTube-Videos, online frei verfügbare PDFs, oder Bücher, die im Handel oder zumindest realistisch in einigen Bibliotheken zu finden sind. Das schließt z.B. nicht-öffentliche Skripten von Vorlesungen oder Handouts, über die ich nur in Papierform verfüge, aus. Ich erwähne ausschließlich Ressourcen in Deutsch oder Englisch.
+
+Die Liste ist außerdem in drei Kategorien aufgeteilt:
+ - *Populärwissenschaftliches* für Leute, die sich zwar für Mathematik begeistern, aber weder studieren noch an mathematischen Wettbewerben teilnehmen. Hier wird meist nur grobes Schulwissen vorausgesetzt.
+ - *Olympiade-Unterlagen* konkret für Teilnehmende der /österreichischen/ Mathematik-Olympiade. Evtl. aber auch für andere Länder, andere Wettbewerbe, oder einfach interessiere Menschen geeignet.
+ - *Uni-Mathe,* wo's an Abstraktion mehr zur Sache geht. Hier wird am meisten vorausgesetzt, z.B. dass Mensch mit dem Lesen von mathematischen Argumentationen im akademischen Stil vertraut ist. Aber manches ist vielleicht auch laientauglich oder für Olympionik:innen von Interesse.
+
+*BAUSTELLE - Die Liste ist derzeit noch nicht vollständig!* Wird sie auch vermutlich niemals sein. ^^ Aber ich meine damit, dass ich noch nicht Zeit hatte, genug in meinen Notizen und in meinem Gedächtnis zu graben, um selbst die mir persönlich wichtigsten Ressourcen aufzuschreiben.
+
+Falls wer auch immer das gerade liest mich persönlich kennt, freue ich mich über neue Vorschläge oder Korrekturhinweise. Von Leuten irgendwo im Internet, die über diese Liste aus Zufall stolpern, verzichte ich da ehrlich gesagt lieber darauf.
+
+Viel Spaß beim Lernen,
+Michael Reitmeir
+
 * Populärwissenschaftlich
 ** Allgemeine Empfehlungen
+*In dieser Kategorie ist generell noch große Baustelle.*
+Bin noch nicht dazu gekommen, hier groß was einzutragen. Aber kommt noch!
 * Olympiade
 ** Allgemeine Empfehlungen
+/Anmerkung./ Hier finden sich nur öffentlich verfügbare (wenn auch in wenigen Fällen kostenpflichte) Ressourcen. Unterlagen, die nur mit einem Benutzerkonto mit gewissen Zugriffsrechten verfügbar sind, bzw. die klassischen Skripten, die aber nur in Papierform bei dem Bundeswettbewerb in Raach ausgehändigt werden, schreibe ich hier nicht auf. Menschen, die auf solches Zugriff haben, brauchen wohl keinen Tipp von mir, um z.B. auf das berüchtigte Czakler-Skriptum aufmerksam zu werden.
 *** Evan Chen, [[https://web.evanchen.cc/][website]]
 Ja, ich empfehle hier eine Person. Evan Chen ist eine absolute Olympiade-Legende und stellt online unzählige Lernmaterialien verschiedenster Art zur Verfügung. Hier ist ein Auszug seiner allgemeineren Ressourcen, spezifischeres findet sich bei den jeweiligen Teilgebieten.
 **** _*YouTube-Kanal*_, [[https://www.youtube.com/@vEnhance][Link]]
